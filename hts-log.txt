@@ -1,0 +1,16 @@
+HTTrack3.47-27+htsswf+htsjava launched on Wed, 30 Oct 2013 21:25:17 at http://www.inedia.net84.net +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2013], %s -->" -%l "it, en, *" http://www.inedia.net84.net -O1 "D:\Users\Marco\Pictures\SITI WEB\LSWF" +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:26:29	Warning: 	Found for www.inedia.net84.net/AppleWebKit/
+21:26:29	Warning: 	File has moved from www.inedia.net84.net/AppleWebKit/ to http://error404.000webhost.com/?
+21:26:42	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link rusenko.weebly.com/weebly/images/file_icons/file.png (from www.inedia.net84.net/estratto-pdf.html)
+21:26:42	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link rusenko.weebly.com/weebly/images/file_icons/file.png (from www.inedia.net84.net/estratto-pdf.html)
+21:26:42	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link rusenko.weebly.com/weebly/images/file_icons/file.png (from www.inedia.net84.net/estratto-pdf.html)
+
+HTTrack Website Copier/3.47-27 mirror complete in 1 minutes 25 seconds : 97 links scanned, 92 files written (1881502 bytes overall) [1748406 bytes received at 20569 bytes/sec], 224579 bytes transferred using HTTP compression in 6 files, ratio 26%
+(1 errors, 4 warnings, 0 messages)

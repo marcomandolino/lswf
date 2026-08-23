@@ -1,0 +1,4 @@
+Sitemap: http://www.inedia.net84.net/sitemap.xml
+
+User-agent: *
+Disallow:
